@@ -1,0 +1,23 @@
+.body_backgorund
+ { background-image: url("https://blog.prezi.com/wp-content/uploads/2019/03/jason-leung-479251-unsplash.jpg");
+     background-position: center;
+    background-size: cover;
+ } 
+ body{ cursor: pointer; 
+} h1
+ { color: rgb(46, 45, 78);
+     font-size: 40px; font-family: cursive; 
+    }
+     #myCanvas { border-width:10px; 
+        background-color: white;
+         border-style:ridge;
+         } 
+         button { background-image: linear-gradient(lightsteelblue,lavenderblush);
+             border: none;
+              color: black;
+               padding: 10px 42px;
+                font-size: 16px;
+                 font-family: cursive;
+                 } 
+                 input { margin-right: 20px;
+                 }
